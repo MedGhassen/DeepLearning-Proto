@@ -1,0 +1,2 @@
+c:\users\gasse\onedrive\documents\visual studio 2015\Projects\DeepLearning-Proto\DeepLearning-Proto\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\gasse\OneDrive\Documents\Visual Studio 2015\Projects\DeepLearning-Proto\DeepLearning-Proto\obj\Debug\DeepLearning-Proto.njsprojResolveAssemblyReference.cache

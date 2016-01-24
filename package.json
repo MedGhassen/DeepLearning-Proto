@@ -1,0 +1,10 @@
+{
+  "name": "DeepLearning-Proto",
+  "version": "0.0.0",
+  "description": "DeepLearning-Proto",
+  "main": "app.js",
+  "author": {
+    "name": "gasse",
+    "email": ""
+  }
+}
